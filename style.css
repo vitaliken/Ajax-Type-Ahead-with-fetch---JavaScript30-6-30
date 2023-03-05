@@ -1,8 +1,8 @@
 html {
     box-sizing: border-box;
-    background: #ffb300;
-    font-family: "helvetica neue";
-    font-size: 20px;
+    background: #337a65;
+    font-family: "helvetica neue", sans-serif;
+    font-size: 18px;
     font-weight: 200;
 }
 
@@ -41,7 +41,6 @@ input.search {
     margin: 0;
     padding: 0;
     position: relative;
-    /*perspective: 20px;*/
 }
 
 .suggestions li {
@@ -71,6 +70,6 @@ span.population {
     font-size: 15px;
 }
 
-.hl {
+.h1 {
     background: #66f7cb;
 }
